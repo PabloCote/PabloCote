@@ -33,15 +33,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.ibb.co/wZnVR3L1/158151173.jpg"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/PabloCote/PabloCote/output/snake.svg" alt="Snake animation" />
-
-###
